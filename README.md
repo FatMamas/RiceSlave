@@ -1,2 +1,2 @@
 # RiceSlave
-Instagram #hashtag scraper for Rice
+Instagram #hashtag scraper for Rice. Python2 only.
